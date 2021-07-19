@@ -4,7 +4,22 @@ Python
 The purpose of this was to help Seth and Tom submit the election audit results to the election commission. We needed to breakdown the details of each section and numbers of each of these sections for a clean and clear result.
 
 ## Election-Audit Results: 
-Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
+### County Votes:
+*Jefferson: 10.5% (38,855)
+*Denver: 82.8% (306,055)
+*Arapahoe: 6.7% (24,801)
+
+### Largest County Turnout:
+*Denver
+
+### Candidate:
+*Charles Casper Stockham: 23.0% (85,213)
+*Diana DeGette: 73.8% (272,892)
+*Raymon Aanthony Doane: 3.1% (11,606)
+
+### Winner:
+*Daina DeGette
+
 ![myTest](https://github.com/nfreeman19/Election_Analysis/blob/main/analysis/Election%20Results.png)
 
 ## How many votes were cast in this congressional election?
