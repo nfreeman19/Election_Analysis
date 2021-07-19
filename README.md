@@ -14,9 +14,7 @@ The purpose of this was to help Seth and Tom submit the election audit results t
 
 ### Candidate:
 * Charles Casper Stockham: 23.0% (85,213)
-
 * Diana DeGette: 73.8% (272,892)
-
 * Raymon Aanthony Doane: 3.1% (11,606)
 
 ### Winner:
