@@ -10,7 +10,7 @@ The purpose of this was to help Seth and Tom submit the election audit results t
 * Arapahoe: 6.7% (24,801)
 
 ### Largest County Turnout:
-*Denver
+* Denver
 
 ### Candidate:
 * Charles Casper Stockham: 23.0% (85,213)
@@ -18,7 +18,7 @@ The purpose of this was to help Seth and Tom submit the election audit results t
 * Raymon Aanthony Doane: 3.1% (11,606)
 
 ### Winner:
-*Daina DeGette
+* Daina DeGette
 
 ![myTest](https://github.com/nfreeman19/Election_Analysis/blob/main/analysis/Election%20Results.png)
 
