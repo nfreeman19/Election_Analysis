@@ -1,7 +1,7 @@
 # Election_Analysis
 Python
 ## Overview of Election Audit: 
-Explain the purpose of this election audit analysis.
+The purpose of this was to help Seth and Tom submit the election audit results to the election commission. We needed to breakdown the details of each section and numbers of each of these sections for a clean and clear result.
 
 ## Election-Audit Results: 
 Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
