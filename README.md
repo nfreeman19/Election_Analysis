@@ -5,7 +5,7 @@ The purpose of this was to help Seth and Tom submit the election audit results t
 
 ## Election-Audit Results: 
 Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
-[myTest]! 
+[myTest]! (https://github.com/nfreeman19/Election_Analysis/blob/main/analysis/election_results.txt)
 
 ## How many votes were cast in this congressional election?
 Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
