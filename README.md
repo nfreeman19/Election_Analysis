@@ -21,9 +21,16 @@ The purpose of this was to help Seth and Tom submit the election audit results t
 * Daina DeGette
 
 ## How many votes were cast in this congressional election?
-Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-Which county had the largest number of votes?
-Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+
+**Total Votes: 369,712**
+
+Please see the results of the election breakdown below.
+
+As you can see Denver County had the largest County Turnout and also had the largest number and percentage of votes.
+
+Diana DeGette won the race with 272,892 winning votes and a winning percentage of 73.8% votes.
+
+This script can be used in any selection as long as the data is collected correctly. This is a clean and simple way to read and understand the data. This scrpit can also be used to provide the Smallest County Turnout instead of the Largest County Turnout like we provided. Instead of the Winner of the election we could also use this to provide the loser and the runner up.
+
+
 ![myTest](https://github.com/nfreeman19/Election_Analysis/blob/main/analysis/Election%20Results.png)
